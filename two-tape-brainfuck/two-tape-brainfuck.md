@@ -1,4 +1,6 @@
-# The Language
+# Two-Tape Brainfuck
+
+## Commands
 `<`, `>`, `+`, `-`, `,`, `.`, `[` and `]` behave same as in standard brainfuck. They controll the head and content of the first tape.
 Additionally, there is a second tape and eight new commands which controll its head and content.
 
@@ -14,3 +16,7 @@ command | meaning  | what it does                                         | corr
 `o`     | output   | output content of cell as ASCII character            | `.`
 `(`     |          | begin loop if cell content is not zero               | `[`
 `)`     |          | jump back to loop begin if cell content is not zero  | `]`
+
+
+# Comments
+Comments begin with `#` and and with a newline-character. The newline character is mandatory.
