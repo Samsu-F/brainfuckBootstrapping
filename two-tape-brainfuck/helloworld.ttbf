@@ -1,5 +1,5 @@
 # this is a hello world programm in two-tape-brainfuck (ttbf)
-++++++++++[-pppppppppprpppl>+<]     # write values 100 and 30 in the first two cells of tape 2 and write 10 two the second cell of tape 1
+++++++++++[-pppppppppprpppl>+<]     # write values 100 and 30 in the first two cells of tape 2 and write 10 to the second cell of tape 1
 ppppo       # h
 mmmo        # e
 pppppppoo   # ll
