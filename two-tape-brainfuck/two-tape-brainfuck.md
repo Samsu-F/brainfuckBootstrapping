@@ -19,4 +19,4 @@ command | meaning  | what it does                                         | corr
 
 
 # Comments
-Comments begin with `#` and and with a newline-character. The newline character is mandatory.
+Comments begin with `#` and end with a newline-character. The newline character is mandatory.
